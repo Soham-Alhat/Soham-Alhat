@@ -1,4 +1,4 @@
-**# Customer Segmentation Using K-Means Clustering**
+# Customer Segmentation Using K-Means Clustering
 
 ### Overview
 This project is centered around customer segmentation using unsupervised learning, specifically K-Means clustering. The aim is to categorize customers into distinct groups based on their purchasing behavior, demographics, and other relevant data, allowing businesses to target marketing efforts more effectively.
